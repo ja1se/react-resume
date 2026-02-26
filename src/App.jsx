@@ -1,2 +1,10 @@
-import {} from 'react'
-export default function App (){return(<><div>App</div></>)}
+import { Nav } from "./Nav";
+
+export function App() {
+  return (
+    <>
+      <Nav />
+      <div>App</div>
+    </>
+  );
+}
