@@ -4,7 +4,6 @@ export function App() {
   return (
     <>
       <Nav />
-      <div>App</div>
     </>
   );
 }
