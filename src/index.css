@@ -1,8 +1,7 @@
-/* nav */
 * {
   box-sizing: border-box;
 }
-/* 오토레이아웃 */
+
 nav {
   display: flex;
   flex-direction: row;
@@ -11,10 +10,8 @@ nav {
   align-content: flex-start;
   padding: 32px 48px;
   gap: 0px 24px;
-
   width: 1200px;
   height: 99px;
-
   background: #ffffff;
   border-bottom: 1px solid #d9d9d9;
 }
@@ -25,5 +22,5 @@ nav {
 
 .nav_list {
   display: flex;
-  gap: 20px; /* 메뉴 사이 간격 */
+  gap: 20px;
 }
