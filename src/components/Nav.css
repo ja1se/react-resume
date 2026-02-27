@@ -11,7 +11,7 @@ nav {
   border-bottom: solid 1px #d9d9d9;
   background-color: #fff;
 }
-.menu {
+  .menu {
   height: 32px;
   flex-grow: 1;
   display: flex;
